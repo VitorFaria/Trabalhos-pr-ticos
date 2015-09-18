@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1400359347 source:/home/vitor/Documentos/Ccode/client/main.c
+	<arpa/inet.h>
+	<netinet/in.h>
+	<stdio.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<unistd.h>
+	<time.h>
+
